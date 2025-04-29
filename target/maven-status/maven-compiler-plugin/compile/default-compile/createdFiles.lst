@@ -1,0 +1,7 @@
+gow\AbstractComponents\AbstractComponent.class
+gow\pageobjects\CheckoutPage.class
+gow\pageobjects\ProductCatalogue.class
+gow\pageobjects\CartPage.class
+gow\pageobjects\ConfirmationPage.class
+gow\pageobjects\OrderPage.class
+gow\pageobjects\LandingPage.class
